@@ -68,8 +68,8 @@ const developer = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00aaff&text_color=e8e8f0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e8e8f0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=adithyvisnu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00aaff&text_color=e8e8f0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyvisnu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e8e8f0" />
 
 </div>
 
@@ -92,9 +92,9 @@ Things I'm actively leveling up on:
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://YOUR_USERNAME.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-visnu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyavisnu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://adithyvisnu.github.io)
 
 </div>
 
@@ -104,6 +104,6 @@ Things I'm actively leveling up on:
 
 *"Make it work. Make it right. Make it fast."*
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=flat-square&label=profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=adithyvisnu&color=00ff88&style=flat-square&label=profile+views)
 
 </div>
